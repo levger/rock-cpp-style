@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: ROCK CPP Style
+message: >-
+  If you want to refer to this clang format file, you can use the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Levin
+    family-names: Gerdes
+    orcid: "https://orcid.org/0000-0001-7648-8928"
+repository-code: "https://github.com/levger/rock-cpp-style"
+abstract: >-
+  Clang format options for C++ in the ROCK robotics
+  framework
+keywords:
+  - clang
+  - cpp
+  - rock-robotics
